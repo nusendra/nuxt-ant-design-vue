@@ -1,5 +1,6 @@
 # Modularized Ant Design Vue with Nuxt
 
+![ant design basic layout](./static/basic-layout.png)
 with basic layout (Dashboard) from Ant Design Vue
 
 ## Build Setup
