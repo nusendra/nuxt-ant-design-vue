@@ -1,4 +1,6 @@
-# nuxt-ant-design
+# Modularized Ant Design Vue with Nuxt
+
+with basic layout (Dashboard) from Ant Design Vue
 
 ## Build Setup
 

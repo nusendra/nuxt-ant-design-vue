@@ -47,4 +47,7 @@ export default {
       plugins: [['import', { libraryName: 'ant-design-vue', style: 'css' }]],
     },
   },
-}
+  eslint: {
+    fix: true,
+  },
+};
