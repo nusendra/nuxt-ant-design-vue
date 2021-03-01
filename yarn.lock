@@ -2390,10 +2390,10 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-ant-design-vue@^1.7.3:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-1.7.3.tgz#92d0d438479fc26ce64e0bf203d135fc4f9fd5e3"
-  integrity sha512-OuJBZmpcy32OvdvP7iW1EqdqU6l/dta1zcQ/U0fep7EGksPviVK7ssifI5QMZFQDDsti0dYQhCEOZWUG0Y/xxQ==
+ant-design-vue@^1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-1.7.4.tgz#854e90985dc0fa9ccc6d681c104560c00eaaf855"
+  integrity sha512-f9/4I34Yq562X70aspSFzw4BCuKRICzDvIocXpsYCC+B9+kjB8db246fpSMtV/1anqxcmGHf7Vh0XJ+ovHJKMw==
   dependencies:
     "@ant-design/icons" "^2.1.1"
     "@ant-design/icons-vue" "^2.0.0"
@@ -6332,12 +6332,7 @@ lodash.zip@^4.2.0:
   resolved "https://registry.yarnpkg.com/lodash.zip/-/lodash.zip-4.2.0.tgz#ec6662e4896408ed4ab6c542a3990b72cc080020"
   integrity sha1-7GZi5IlkCO1KtsVCo5kLcswIACA=
 
-lodash@^4.15.0, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.5:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
-  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
-
-lodash@^4.17.21:
+lodash@^4.15.0, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.5:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
