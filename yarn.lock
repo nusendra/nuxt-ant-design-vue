@@ -2563,10 +2563,10 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-ant-design-vue@^1.7.6:
-  version "1.7.6"
-  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-1.7.6.tgz#976a84ff037c2e5f0586dcd697eafb8cf7983b1e"
-  integrity sha512-EOS6g/deT53xHxZDMOxedyBehXSNMGnxdOeQtDksmiRvCBrZs+yoFYoVOe9pmQ8EJ7XQLn8TMReiYbXi78kppA==
+ant-design-vue@^1.7.7:
+  version "1.7.7"
+  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-1.7.7.tgz#621cca28c89e2887ec391e5c129c34d463f3803e"
+  integrity sha512-h7kG4pqUNtPrlADRfILf1XPmL61VupvR/JAyglsZ8uiv+QuWwhZExOrXrMIyuJ6p91ioO7qhd9LpO+XIMiTqNA==
   dependencies:
     "@ant-design/icons" "^2.1.1"
     "@ant-design/icons-vue" "^2.0.0"
