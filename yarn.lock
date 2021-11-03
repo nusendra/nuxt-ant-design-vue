@@ -3792,10 +3792,10 @@ core-js@^2.4.0, core-js@^2.6.5:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
   integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
 
-core-js@^3.19.0, core-js@^3.6.5:
-  version "3.19.0"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.19.0.tgz#9e40098a9bc326c7e81b486abbd5e12b9d275176"
-  integrity sha512-L1TpFRWXZ76vH1yLM+z6KssLZrP8Z6GxxW4auoCj+XiViOzNPJCAuTIkn03BGdFe6Z5clX5t64wRIRypsZQrUg==
+core-js@^3.19.1, core-js@^3.6.5:
+  version "3.19.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.19.1.tgz#f6f173cae23e73a7d88fa23b6e9da329276c6641"
+  integrity sha512-Tnc7E9iKd/b/ff7GFbhwPVzJzPztGrChB8X8GLqoYGdEOG8IpLnK1xPyo3ZoO3HsK6TodJS58VGPOxA+hLHQMg==
 
 core-util-is@~1.0.0:
   version "1.0.2"
@@ -4815,7 +4815,7 @@ eslint-plugin-unicorn@^37.0.1:
     semver "^7.3.5"
     strip-indent "^3.0.0"
 
-eslint-plugin-vue@^7.20.0, eslint-plugin-vue@^7.9.0:
+eslint-plugin-vue@^7.20.0:
   version "7.20.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-7.20.0.tgz#98c21885a6bfdf0713c3a92957a5afeaaeed9253"
   integrity sha512-oVNDqzBC9h3GO+NTgWeLMhhGigy6/bQaQbHS+0z7C4YEu/qK/yxHvca/2PTZtGNPsCrHwOTgKMrwu02A9iPBmw==
@@ -4841,7 +4841,7 @@ eslint-scope@^4.0.3:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-scope@^5.0.0, eslint-scope@^5.1.1:
+eslint-scope@^5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-5.1.1.tgz#e786e59a66cb92b3f6c1fb0d508aab174848f48c"
   integrity sha512-2NxwbF/hZ0KpepYN0cNbo+FN6XoK7GaHlQhgx/hIZl6Va0bF45RQOOwhLIy8lQDbuCiadSLCBnH2CFYquit5bw==
@@ -4960,15 +4960,6 @@ espree@^6.2.1:
     acorn "^7.1.1"
     acorn-jsx "^5.2.0"
     eslint-visitor-keys "^1.1.0"
-
-espree@^9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/espree/-/espree-9.0.0.tgz#e90a2965698228502e771c7a58489b1a9d107090"
-  integrity sha512-r5EQJcYZ2oaGbeR0jR0fFVijGOcwai07/690YRXLINuhmVeRY4UKSAsQPe/0BNuDgwP7Ophoc1PRsr2E3tkbdQ==
-  dependencies:
-    acorn "^8.5.0"
-    acorn-jsx "^5.3.1"
-    eslint-visitor-keys "^3.0.0"
 
 espree@^9.0.0:
   version "9.0.0"
