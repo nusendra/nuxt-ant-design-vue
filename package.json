@@ -24,7 +24,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
-    "ant-design-vue": "^3.2.10",
+    "ant-design-vue": "^3.2.11",
     "core-js": "^3.24.1",
     "nuxt": "^2.15.8"
   },
@@ -36,7 +36,7 @@
     "@nuxtjs/stylelint-module": "^4.0.0",
     "babel-eslint": "^10.1.0",
     "babel-plugin-import": "^1.13.5",
-    "eslint": "^8.20.0",
+    "eslint": "^8.21.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-nuxt": "^3.2.0",
     "eslint-plugin-prettier": "^4.2.1",
@@ -45,6 +45,6 @@
     "prettier": "^2.7.1",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^9.0.3",
-    "stylelint-config-standard": "^26.0.0"
+    "stylelint-config-standard": "^27.0.0"
   }
 }
