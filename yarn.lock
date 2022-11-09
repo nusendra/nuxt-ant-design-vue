@@ -4888,16 +4888,7 @@ eslint@^8.23.0:
     strip-json-comments "^3.1.0"
     text-table "^0.2.0"
 
-espree@^9.0.0, espree@^9.4.0:
-  version "9.4.0"
-  resolved "https://registry.yarnpkg.com/espree/-/espree-9.4.0.tgz#cd4bc3d6e9336c433265fc0aa016fc1aaf182f8a"
-  integrity sha512-DQmnRpLj7f6TgN/NYb0MTzJXL+vJF9h3pHy4JhCIs3zwcgez8xmGg3sXHcEO97BrmO2OSvCwMdfdlyl+E9KjOw==
-  dependencies:
-    acorn "^8.8.0"
-    acorn-jsx "^5.3.2"
-    eslint-visitor-keys "^3.3.0"
-
-espree@^9.3.1:
+espree@^9.0.0, espree@^9.3.1, espree@^9.4.0:
   version "9.4.0"
   resolved "https://registry.yarnpkg.com/espree/-/espree-9.4.0.tgz#cd4bc3d6e9336c433265fc0aa016fc1aaf182f8a"
   integrity sha512-DQmnRpLj7f6TgN/NYb0MTzJXL+vJF9h3pHy4JhCIs3zwcgez8xmGg3sXHcEO97BrmO2OSvCwMdfdlyl+E9KjOw==
@@ -10026,10 +10017,10 @@ stylehacks@^4.0.0:
     postcss "^7.0.0"
     postcss-selector-parser "^3.0.0"
 
-stylelint-config-prettier@^9.0.3:
-  version "9.0.3"
-  resolved "https://registry.yarnpkg.com/stylelint-config-prettier/-/stylelint-config-prettier-9.0.3.tgz#0dccebeff359dcc393c9229184408b08964d561c"
-  integrity sha512-5n9gUDp/n5tTMCq1GLqSpA30w2sqWITSSEiAWQlpxkKGAUbjcemQ0nbkRvRUa0B1LgD3+hCvdL7B1eTxy1QHJg==
+stylelint-config-prettier@^9.0.4:
+  version "9.0.4"
+  resolved "https://registry.yarnpkg.com/stylelint-config-prettier/-/stylelint-config-prettier-9.0.4.tgz#1b1dda614d5b3ef6c1f583fa6fa55f88245eb00b"
+  integrity sha512-38nIGTGpFOiK5LjJ8Ma1yUgpKENxoKSOhbDNSemY7Ep0VsJoXIW9Iq/2hSt699oB9tReynfWicTAoIHiq8Rvbg==
 
 stylelint-config-recommended@^9.0.0:
   version "9.0.0"
