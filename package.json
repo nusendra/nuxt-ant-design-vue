@@ -24,7 +24,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
-    "ant-design-vue": "^3.2.15",
+    "ant-design-vue": "^3.2.16",
     "core-js": "^3.29.1",
     "nuxt": "^3.3.2"
   },
