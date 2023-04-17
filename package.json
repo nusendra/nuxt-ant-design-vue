@@ -43,7 +43,7 @@
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
     "prettier": "^2.8.7",
-    "stylelint": "^15.3.0",
+    "stylelint": "^15.5.0",
     "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-standard": "^31.0.0"
   }
