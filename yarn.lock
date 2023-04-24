@@ -1696,10 +1696,10 @@ ansi-styles@^6.0.0, ansi-styles@^6.1.0:
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-6.2.1.tgz#0e62320cf99c21afff3b3012192546aacbfb05c5"
   integrity sha512-bN798gFfQX+viw3R7yrGWRqnrN2oRkEkUjjl4JNn4E8GxxbjtG3FbrEIIY3l8/hrwUwIeCZvi4QuOTP4MErVug==
 
-ant-design-vue@^3.2.15:
-  version "3.2.15"
-  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-3.2.15.tgz#eab52877fa08a9e4c8cb311ea479a90203dcb302"
-  integrity sha512-sJfE7LWimSdAPe4dzNyQBrmVMnOTNQTkG9oOyr+7W8qIYrX8sYWyC68Nn1uum4KBJUSZUa/BU6dohvTG0urBhA==
+ant-design-vue@^3.2.19:
+  version "3.2.19"
+  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-3.2.19.tgz#b8f7c2ed81def0b8636fbd53608afb6db9db5831"
+  integrity sha512-weizTa70qNhyj8tOoplTcpt85OkVHpnreK2skdTmORFAGDGvF15zyoqCNg2tByzn2xxf2DloQQvZYKlN/i0CGw==
   dependencies:
     "@ant-design/colors" "^6.0.0"
     "@ant-design/icons-vue" "^6.1.0"
